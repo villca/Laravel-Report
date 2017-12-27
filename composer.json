@@ -1,5 +1,5 @@
 {
-    "name": "vendor/laravel-report",
+    "name": "villca/Laravel-Report",
     "description": "",
     "require": {
         "php": "^5.3.3 || ^7.0"
